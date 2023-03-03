@@ -1,7 +1,3 @@
-Kevin Monahan
-CompSci 537 - Homework 3
-2/15/2023
-
 This is simplified version of bash. This shell can take in any command so long as the path has been set properly. This shell supports unlimited
 whitespace between commands, arguments, and the other modifiers used in the shell. Not everything needs whitespace, but when it is needed it 
 is noted. The shell also includes three built-in functions. They are "cd", "exit", and "path".
