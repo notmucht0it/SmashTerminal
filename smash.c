@@ -1,6 +1,3 @@
-//Kevin Monahan
-//CompSci 537 - Homework 3
-
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
