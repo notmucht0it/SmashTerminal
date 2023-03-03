@@ -4,7 +4,7 @@ is noted. The shell also includes three built-in functions. They are "cd", "exit
 
 cd
 The cd command takes in one argument separated from the main command by at least one whitespace and attempts to switching the current working
-directory to the specified path. Here is an example -> "cd   .." This will fail is the path is non-viable or more than one argument is passed
+directory to the specified path. Here is an example -> "cd   .." This will fail if the path is non-viable or more than one argument is passed
 
 exit
 The exit command takes in no arguments and closes the shell safely. If arguments are included, the shell will not exit. 
